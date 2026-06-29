@@ -1,0 +1,6 @@
+{
+  "name": "Date Proposal",
+  "description": "A playful, interactive web application to ask someone out on a date with reasons and a fun decision screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
